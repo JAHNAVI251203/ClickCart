@@ -34,7 +34,7 @@ export function HomePage({ cart, loadCart }) {
       <div className="home-page">
         {products.length === 0 ? (
           <p style={{ textAlign: "center", marginTop: "100px" }}>
-            No products found!!!
+            Loading products...
           </p>
         ) : (
           <ProductsGrid products={products} loadCart={loadCart} />
