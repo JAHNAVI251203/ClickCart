@@ -27,7 +27,7 @@ export function HomePage({ cart, loadCart }) {
 
   return (
     <>
-      <title>E-commerce Project</title>
+      <title>ClickCart</title>
 
       <Header cart={cart} />
 
