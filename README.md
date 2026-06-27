@@ -1,4 +1,4 @@
-# ClickCart 🛒
+# ClickCart 
 
 ClickCart — a full-stack MERN e-commerce application built to understand how real online stores work end-to-end — product browsing, cart, checkout, payments, and order tracking.
 
